@@ -1,7 +1,7 @@
 # Bengali-ASR-model-using-Wav2Vec2
 An independent, automated method of decoding
 and transcribing oral speech is known as automatic speech
-recognition (ASR). A typical ASR system extracts featured from
+recognition (ASR). A typical ASR system extracts feature from
 audio recordings or streams and run one or more algorithms to
 map the features to corresponding texts. Numerous of research
 has been done in the field of speech signal processing in
